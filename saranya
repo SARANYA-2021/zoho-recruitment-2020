@@ -1,0 +1,73 @@
+Family extension problem.
+              Struct family {
+}
+Main()
+{
+Struct family f;
+Struct family f2,f3,f4;
+};
+
+
+Struct Familydetails family;
+
+Family.malemale_father=fathers sister daughter;
+If{
+}
+
+Family.male=”mothers brothers daughter;
+{
+}
+
+
+
+class person:
+	def _init_(self,name,sex,father,mother):
+		self.name=name
+		self.sex=sex
+		self.father=father
+		self.mother=mother
+	
+	def get_name(name):
+			self.name=name
+	def get_sex(sex):
+			self.sex=sex
+	def get_father(father):
+			self.father=father
+	def get_mother(mother):
+			self.mother=mother
+
+
+
+
+#include <iostream.h>
+#include <string.h>
+using namespace std;
+class person
+{
+string name,sex,father,mother;
+
+public:
+person(string name,string sex,string father,string mother)
+{
+name=name;
+sex=sex;
+father=father;
+mother=mother;
+}
+string get_name()
+{
+return name;
+}
+string get_sex()
+{
+return sex;
+}
+string get_father()
+{
+return father;
+}
+string get_mother()
+{
+return mother;
+}
+};
